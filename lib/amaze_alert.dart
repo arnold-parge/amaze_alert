@@ -4,7 +4,9 @@ import 'package:flutter/material.dart';
 
 enum AmazeAnimation { Rotate, Scale, ScaleRotate, Fade }
 
+/// An Amazing class to create amazing animated alert dialogs.
 class AmazeAlert {
+  /// Creates amazing animated alerts.
   double _padding = 15.0;
 
   Widget _body(
