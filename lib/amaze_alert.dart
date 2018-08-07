@@ -2,11 +2,6 @@ library amaze_alert;
 
 import 'package:flutter/material.dart';
 
-// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
 enum AmazeAnimation { Rotate, Scale, ScaleRotate, Fade }
 
 class AmazeAlert {
