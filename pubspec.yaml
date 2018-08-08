@@ -1,11 +1,11 @@
 name: amaze_alert
 description: A Flutter package provides amazing dynamic alert dialogs.
-version: 0.0.3
+version: 0.0.4
 author: Arnold Parge <pargearnold@gmail.com>
 homepage: https://github.com/arnold-parge/amaze_alert
 
 environment:
-  sdk: ">=1.19.0 <2.0.0"
+  sdk: ">=1.19.0 <3.0.0"
 
 dependencies:
   flutter:
